@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627839973 source:e:\fcib training\phase 1\level 2\1- data structures\projects\zuma-game\main.cpp
+	<bits/stdc++.h>
+	"DoubleLinkedList.h"
+
+1627840160 e:\fcib training\phase 1\level 2\1- data structures\projects\zuma-game\include\doublelinkedlist.h
+	<bits/stdc++.h>
+
